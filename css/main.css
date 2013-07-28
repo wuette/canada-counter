@@ -61,3 +61,14 @@ body{
     font-family: 'Helvetica Neue',Arial,'Liberation Sans',FreeSans,sans-serif;
 }
 
+#counter {
+    width: 250px;
+    margin: auto;
+    margin-top: 25%;
+    font-family: 'Fugaz One', cursive;
+    font-size: 25px;
+}
+
+footer {
+    font-family: 'Rokkitt', serif;
+}
